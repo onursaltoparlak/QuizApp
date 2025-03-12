@@ -1,0 +1,1011 @@
+[
+    {
+        "soru": "Hangi ülkenin başkenti Ankara'dır?",
+        "secenekler": ["Yunanistan", "Irak", "Türkiye", "İran"],
+        "cevap": "C"
+    },
+    {
+        "soru": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+        "secenekler": ["1517", "1453", "1071", "1492"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi bilim insanı görelilik teorisiyle ünlüdür?",
+        "secenekler": ["Isaac Newton", "Marie Curie", "Nikola Tesla", "Albert Einstein"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Romeo ve Juliet adlı eserin yazarı kimdir?",
+        "secenekler": ["Lev Tolstoy", "Charles Dickens", "Ernest Hemingway", "William Shakespeare"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Mona Lisa tablosu hangi ressamın eseridir?",
+        "secenekler": ["Michelangelo", "Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Dünyanın en uzun nehri hangisidir?",
+        "secenekler": ["Mississippi Nehri", "Amazon Nehri", "Yangtze Nehri", "Nil Nehri"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Beethoven'ın 9. Senfonisi hangi eseri içerir?",
+        "secenekler": ["5. Senfoni", "Requiem", "Neşeye Övgü", "Ay Işığı Sonatı"],
+        "cevap": "C"
+    },
+    {
+        "soru": "FIFA Dünya Kupası'nı en çok kazanan ülke hangisidir?",
+        "secenekler": ["Arjantin", "İtalya", "Almanya", "Brezilya"],
+        "cevap": "D"
+    },
+    {
+        "soru": "İlk bilgisayar programcısı olarak kabul edilen kişi kimdir?",
+        "secenekler": ["Bill Gates", "Steve Jobs", "Ada Lovelace", "Alan Turing"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Yunan mitolojisinde savaş tanrısı kimdir?",
+        "secenekler": ["Hades", "Zeus", "Poseidon", "Ares"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi gezegen 'Kızıl Gezegen' olarak adlandırılır?",
+        "secenekler": ["Venüs", "Jüpiter", "Mars", "Satürn"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Fransız İhtilali hangi yılda başlamıştır?",
+        "secenekler": ["1776", "1812", "1789", "1848"],
+        "cevap": "C"
+    },
+    {
+        "soru": "DNA'nın çift sarmal yapısını keşfeden bilim insanları kimlerdir?",
+        "secenekler": ["Einstein ve Bohr", "Watson ve Crick", "Curie ve Pasteur", "Newton ve Darwin"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ülkenin ulusal marşı 'Jana Gana Mana'dır?",
+        "secenekler": ["Pakistan", "Bangladeş", "Nepal", "Hindistan"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi ressam, ‘Venüs’ adlı eseriyle tanınan, Rönesans döneminin ünlü sanatçılarından biridir?",
+        "secenekler": ["Leonardo da Vinci", "Sandro Botticelli", "Raphael", "Michelangelo"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Olimpiyat halkalarındaki renkler hangileridir?",
+        "secenekler": ["Mavi-Sarı-Siyah-Yeşil-Kırmızı", "Mavi-Altın-Siyah-Beyaz-Turuncu", "Kırmızı-Beyaz-Mavi-Sarı-Siyah", "Yeşil-Mor-Turkuaz-Gri-Pembe"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi elementin kimyasal sembolü 'Au'dur?",
+        "secenekler": ["Gümüş", "Altın", "Alüminyum", "Argon"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Ünlü 'Don Kişot' romanının yazarı kimdir?",
+        "secenekler": ["William Shakespeare", "Lev Tolstoy", "Miguel de Cervantes", "Dante Alighieri"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ülkenin bayrağında hilal ve yıldız bulunur?",
+        "secenekler": ["Türkiye", "Pakistan", "Cezayir", "Hepsi"],
+        "cevap": "D"
+    },
+    {
+        "soru": "'Sefiller' romanının yazarı kimdir?",
+        "secenekler": ["Victor Hugo", "Leo Tolstoy", "Fyodor Dostoyevski", "Charles Dickens"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi gezegenin uydusu olan Titan, Dünya dışında yüzeyinde sıvı bulunduran tek gök cismidir?",
+        "secenekler": ["Mars", "Jüpiter", "Satürn", "Neptün"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ünlü ressam 'Sürahili Natürmort' tablosuyla tanınan Osman Hamdi Bey'in babasıdır?",
+        "secenekler": ["İbrahim Çallı", "Şeker Ahmet Paşa", "Süleyman Seyyid", "Abdülmecid Efendi"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi dil, dünyada en çok sayıda resmi devlet dili statüsüne sahiptir?",
+        "secenekler": ["İngilizce", "Fransızca", "Arapça", "İspanyolca"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Kuantum bilgisayarlarında kullanılan temel hesaplama biriminin adı nedir?",
+        "secenekler": ["Bit", "Qubit", "Byte", "Pixel"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi kıta üzerinde aktif yanardağ bulunmayan tek kıtadır?",
+        "secenekler": ["Antarktika", "Avustralya", "Afrika", "Avrupa"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Türk müziğindeki 'Hicaz Makamı' hangi Batı müziği skalasına benzer?",
+        "secenekler": ["Majör", "Minör", "Harmonik Minör", "Pentatonik"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi element, periyodik tabloda hem metal hem de ametal özellikler gösterir?",
+        "secenekler": ["Silisyum", "Cıva", "Hidrojen", "Germanyum"],
+        "cevap": "C"
+    },
+    {
+        "soru": "İlk yapay kalp naklini gerçekleştiren doktor Robert Jarvik'in milliyeti nedir?",
+        "secenekler": ["Kanadalı", "Amerikalı", "Fransız", "Japon"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ülkenin geleneksel 'Tea Ceremony' (Çay Töreni) UNESCO Somut Olmayan Kültürel Miras listesindedir?",
+        "secenekler": ["Çin", "Hindistan", "Japonya", "Türkiye"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Beyin hücreleri arasındaki iletişimi sağlayan yapıların genel adı nedir?",
+        "secenekler": ["Nöron", "Dendrit", "Sinaps", "Akson"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ünlü besteci, tamamen sağır olduğu halde 9. Senfoni'yi bestelemiştir?",
+        "secenekler": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Frédéric Chopin"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Antik Dünyanın Yedi Harikası'ndan günümüze kadar ulaşan tek yapı hangisidir?",
+        "secenekler": ["Babil'in Asma Bahçeleri", "Keops Piramidi", "Zeus Heykeli", "Artemis Tapınağı"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi element, periyodik tabloda adını bir kıtadan alır?",
+        "secenekler": ["Amerikyum (Amerika)", "Europyum (Avrupa)", "Francium (Fransa)", "Germanyum (Almanya)"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İlk başarılı insanlı uzay uçuşunu gerçekleştiren ülke hangisidir?",
+        "secenekler": ["ABD", "Çin", "Sovyetler Birliği", "Fransa"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ülkenin anayasasında 11 farklı resmi dil tanımlanmıştır?",
+        "secenekler": ["Hindistan", "İsviçre", "Güney Afrika", "Endonezya"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Bilgisayar bilimlerinde 'World Wide Web'in mucidi kimdir?",
+        "secenekler": ["Bill Gates", "Tim Berners-Lee", "Steve Jobs", "Alan Turing"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi kültür, 'sıfır' kavramını matematik sistemine kazandıran ilk medeniyettir?",
+        "secenekler": ["Eski Mısırlılar", "Mayalar", "Hintliler", "Sümerler"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi şehir 'Üç İmparatorluk Başkenti' unvanına sahiptir?",
+        "secenekler": ["Roma", "İstanbul", "Pekin", "Viyana"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Nobel Ödülleri'nin kurucusu Alfred Nobel hangi icadıyla ün kazanmıştır?",
+        "secenekler": ["Dinamit", "Radyo", "Telefon", "Ampul"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi gezegen, Güneş Sistemimizde 'dev gezegen' kategorisine girmez?",
+        "secenekler": ["Jüpiter", "Satürn", "Uranüs", "Mars"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi gezegenin atmosferinde güneş sistemi dışındaki en büyük fırtına gözlemlenmiştir?",
+        "secenekler": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+        "cevap": "C"
+    },
+    {
+        "soru": "İlk yapay uydu olarak bilinen Sputnik hangi ülke tarafından fırlatılmıştır?",
+        "secenekler": ["ABD", "Rusya", "Çin", "Fransa"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi gezegenin yüzeyi, en büyük volkanik dağa sahip olup, bu dağın ismi 'Olympus Mons'tur?",
+        "secenekler": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi insan yapımı yapı uzaya en yakın olanıdır?",
+        "secenekler": ["Chichen Itza Piramidi", "Great Wall of China (Çin Seddi)", "Burj Khalifa", "Uluslararası Uzay İstasyonu (ISS)"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi hayvanın beyninde insan beynine benzer nöronlar bulunur ve bu nedenle yüksek zekaya sahiptir?",
+        "secenekler": ["Köpek", "Dolphin (Yunus Balığı)", "Kedi", "Fil"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İnsanın evrimi sırasında 'ağaç'tan inşa edilen ilk evlerin en eski örnekleri hangi bölgededir?",
+        "secenekler": ["Afrika", "Güney Amerika", "Avustralya", "Asya"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi element, 'ağır metaller' kategorisinde yer almaz?",
+        "secenekler": ["Kurşun", "Cıva", "Altın", "Beryllium"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi devletin bayrağında üç renk vardır: kırmızı, beyaz ve yeşil?",
+        "secenekler": ["Fransa", "İtalya", "Çin", "Meksika"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Dünyanın en derin okyanusu hangisidir?",
+        "secenekler": ["Atlantik Okyanusu", "Hint Okyanusu", "Arktik Okyanusu", "Pasifik Okyanusu"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi sanat akımı, 20. yüzyılda 'soyut dışavurumculuk' olarak adlandırılmıştır?",
+        "secenekler": ["Barok", "Empresyonizm", "Kübizm", "Abstrakt Dışavurumculuk"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi gezegenin yörüngesi, diğer gezegenlerin yörüngelerinden daha eğiktir?",
+        "secenekler": ["Neptün", "Uranüs", "Satürn", "Jüpiter"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ülke, modern olimpiyat oyunlarının kurucusudur?",
+        "secenekler": ["Fransa", "Yunanistan", "İngiltere", "Almanya"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Büyük Çin Seddi'nin uzunluğu yaklaşık olarak ne kadardır?",
+        "secenekler": ["13,170 km", "21,196 km", "18,500 km", "25,000 km"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Dünyanın en eski üniversitesi hangi şehirde bulunmaktadır?",
+        "secenekler": ["Oxford, İngiltere", "Bologna, İtalya", "Cairo, Mısır", "Harvard, ABD"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk Nobel Ödülü hangi yıl verilmiştir?",
+        "secenekler": ["1901", "1910", "1895", "1920"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Bir insanın kalbi, günde ortalama kaç kez atar?",
+        "secenekler": ["50,000", "100,000", "150,000", "200,000"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk kez uzaya gönderilen insan kimdir?",
+        "secenekler": ["Neil Armstrong", "Valentina Tereshkova", "Yuri Gagarin", "Buzz Aldrin"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi element, periyodik tabloda 'Ag' sembolü ile gösterilir?",
+        "secenekler": ["Altın", "Gümüş", "Bakır", "Demir"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Işık hızını aşan bir nesnenin hareketiyle ilgili teoriyi geliştiren bilim insanı kimdir?",
+        "secenekler": ["Isaac Newton", "Albert Einstein", "Maxwell", "Galileo Galilei"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İnsanoğlunun ilk biyoçeşitlilik yasasını geliştirdiği düşünülmektedir. Bu yasa hangi bilim insanına aittir?",
+        "secenekler": ["Charles Darwin", "Gregor Mendel", "Alfred Russel Wallace", "Jean-Baptiste Lamarck"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ülkenin bayrağında insan yüzü tasviri bulunur?",
+        "secenekler": ["Arjantin", "Belçika", "Hollanda", "Uruguay"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi elementin sembolü (Hg) Latince 'sıvı gümüş' anlamına gelen 'hydrargyrum'dan türemiştir?",
+        "secenekler": ["Altın", "Cıva", "Gümüş", "Kurşun"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi antik uygarlık ilk yazılı kanunları (Hammurabi Kanunları) oluşturmuştur?",
+        "secenekler": ["Asur", "Babil", "Sümer", "Hitit"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi gezegenin uydusu Triton, Güneş Sistemi'nde ters yönde dönen tek büyük uydudur?",
+        "secenekler": ["Satürn", "Uranüs", "Neptün", "Jüpiter"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi dilde 'kelime başına düşen ortalama hece sayısı' en yüksektir?",
+        "secenekler": ["Japonca", "İngilizce", "Hawaii Dili", "Vietnamca"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi icat 19. yüzyılda 'şeytanın en büyük lütfu' olarak adlandırılmıştır?",
+        "secenekler": ["Dinamit", "Sigara", "Asansör", "Telefon"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi kıtada aktif yanardağ bulunmaz?",
+        "secenekler": ["Antarktika", "Avustralya", "Afrika", "Güney Amerika"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi organizma fotosentez yapabilen tek hayvan türüdür?",
+        "secenekler": ["Denizanası", "Yeşil Deniz Salyangozu", "Mercan", "Deniz Hıyarı"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi mimari stil 'gül pencereleri' ve sivri kemerleriyle ünlüdür?",
+        "secenekler": ["Barok", "Gotik", "Rönesans", "Art Nouveau"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi elementin atom numarası 'Altın Oran' (≈1.618) ile ilişkilendirilebilir?",
+        "secenekler": ["Altın (79)", "Gümüş (47)", "Bakır (29)", "Platin (78)"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi sanatçı 'Yıldızlı Gece' tablosuyla ünlüdür?",
+        "secenekler": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dalí", "Claude Monet"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk ticari GPS uydusu hangi yıl uzaya fırlatılmıştır?",
+        "secenekler": ["1978", "1989", "1995", "2001"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ülkenin milli sporu 'lacrosse'dur?",
+        "secenekler": ["Kanada", "Avustralya", "Hindistan", "Japonya"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi müzik enstrümanı elektronik olarak üretilen ilk çalgıdır?",
+        "secenekler": ["Sentetizatör", "Theremin", "Elektro gitar", "Drum machine"],
+        "cevap": "B"
+    },
+    {
+        "soru": "UNESCO'nun 'Somut Olmayan Kültürel Miras' listesinde yer alan 'Nowruz' nedir?",
+        "secenekler": ["Bir halk dansı", "Geleneksel yeni yıl kutlaması", "El sanatı tekniği", "Törensel müzik aleti"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk e-posta hangi yıl gönderilmiştir?",
+        "secenekler": ["1969", "1971", "1975", "1983"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi spor dalı Olimpiyat Oyunları'na 2020 Tokyo'da eklenmiştir?",
+        "secenekler": ["Breakdance", "Skateboard", "Spor tırmanışı", "Beyzbol"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi müzik türü 'Delta Blues' olarak bilinen köklere sahiptir?",
+        "secenekler": ["Caz", "Rock", "Hip Hop", "Country"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Antik Roma'da gladyatör dövüşleri hangi yapıda gerçekleştirilirdi?",
+        "secenekler": ["Panteon", "Kolezyum", "Forum Romanum", "Circus Maximus"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi kültürel miras 'Gölge Oyunu' geleneğiyle ilişkilidir?",
+        "secenekler": ["Wayang (Endonezya)", "Kabuki (Japonya)", "Karagöz (Türkiye)", "Peking Operası (Çin)"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Teniste ‘Grand Slam’ turnuvalarının sayısı kaçtır?",
+        "secenekler": ["2", "3", "4", "5"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ülke, olimpiyat tarihinde en çok madalya kazanmıştır?",
+        "secenekler": ["Rusya", "Çin", "ABD", "Almanya"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Boks maçlarında kaç raund standart olarak oynanır?",
+        "secenekler": ["10", "12", "15", "8"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Futbolda bir oyuncunun, aynı maçta 3 gol atmasına ne denir?",
+        "secenekler": ["Hat-trick", "Double", "Clean sheet", "Free kick"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi spor dalında ‘snooker’ terimi kullanılır?",
+        "secenekler": ["Golf", "Bilardo", "Tenis", "Yüzme"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Basketbolda bir oyuncunun 10 veya daha fazla sayı, ribaund ve asist yapmasına ne denir?",
+        "secenekler": ["Double-double", "Triple-double", "Quadruple-double", "Five-by-five"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ülkenin milli futbol takımı, 'Azzurri' lakabıyla anılır?",
+        "secenekler": ["İspanya", "İtalya", "Fransa", "Portekiz"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi sporda ‘knockout’ (nakavt) terimi kullanılır?",
+        "secenekler": ["Boks", "Futbol", "Basketbol", "Tenis"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Yüzmede kelebek stili hangi vuruş tekniği ile yapılır?",
+        "secenekler": ["Kurbağalama", "Dolphin (yunus)", "Serbest", "Sırtüstü"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Futbolda hakem hangi kartı gösterirse oyuncu oyundan atılır?",
+        "secenekler": ["Sarı kart", "Mavi kart", "Yeşil kart", "Kırmızı kart"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Modern Olimpiyat Oyunları ilk kez hangi yıl düzenlenmiştir?",
+        "secenekler": ["1896", "1900", "1924", "1936"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Dünyanın ilk futbol kulübü olarak kabul edilen Sheffield FC hangi ülkede kurulmuştur?",
+        "secenekler": ["İngiltere", "Brezilya", "Almanya", "Fransa"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İlk FIFA Dünya Kupası hangi yıl düzenlenmiştir?",
+        "secenekler": ["1928", "1930", "1934", "1950"],
+        "cevap": "B"
+    },
+    {
+        "soru": "NBA tarihindeki ilk şampiyon hangi takımdır?",
+        "secenekler": ["Chicago Bulls", "Boston Celtics", "Los Angeles Lakers", "Philadelphia Warriors"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Olimpiyat tarihinde 100 metre finalinde rekor kırarak 9.58 saniyeyle altın madalya kazanan atlet kimdir?",
+        "secenekler": ["Usain Bolt", "Carl Lewis", "Jesse Owens", "Ben Johnson"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Dünyanın en eski tenis turnuvası hangisidir?",
+        "secenekler": ["Roland Garros", "US Open", "Wimbledon", "Australian Open"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Michael Phelps, olimpiyat tarihinin en çok madalya kazanan sporcusudur. Kaç olimpiyat altın madalyası vardır?",
+        "secenekler": ["19", "21", "23", "25"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Futbolun kurallarını belirleyen ilk resmi organizasyon olan IFAB hangi yılda kurulmuştur?",
+        "secenekler": ["1863", "1875", "1886", "1899"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Dünyanın en uzun maraton koşusu süresiyle tamamlanan yarışında atlet Shizo Kanakuri kaç yıl sonra yarışı bitirmiştir?",
+        "secenekler": ["10 yıl", "25 yıl", "54 yıl", "70 yıl"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Kadınların ilk kez olimpiyatlarda yarıştığı yıl hangisidir?",
+        "secenekler": ["1900", "1912", "1928", "1936"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Bilgisayar programlamanın öncülerinden biri olan Ada Lovelace, hangi 19. yüzyıl matematikçisiyle birlikte çalışmıştır?",
+        "secenekler": ["Alan Turing", "Charles Babbage", "John von Neumann", "Blaise Pascal"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Dünyanın ilk sosyal medya platformlarından biri olan Facebook hangi yıl kuruldu?",
+        "secenekler": ["1999", "2002", "2004", "2007"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Bilgisayar donanımında kullanılan ‘SSD’ kısaltması ne anlama gelir?",
+        "secenekler": ["System Storage Device", "Solid State Drive", "Super Speed Data", "Smart Storage Disk"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk video paylaşım platformu olan YouTube hangi yıl kurulmuştur?",
+        "secenekler": ["2003", "2005", "2008", "2010"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi şirket, ilk ticari mikroişlemci olan Intel 4004'ü üretmiştir?",
+        "secenekler": ["IBM", "AMD", "Intel", "Microsoft"],
+        "cevap": "C"
+    },
+    {
+        "soru": "QR kod teknolojisi ilk olarak hangi amaçla geliştirilmiştir?",
+        "secenekler": ["Web sitelerine hızlı erişim", "Reklam ve pazarlama", "Otomotiv üretim takibi", "Ödeme sistemleri"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi teknoloji devi, ‘Alexa’ adlı sanal asistanı geliştirmiştir?",
+        "secenekler": ["Google", "Apple", "Amazon", "Microsoft"],
+        "cevap": "C"
+    },
+    {
+        "soru": "İlk taşınabilir müzik çalar (MP3 player) hangi yılda piyasaya sürüldü?",
+        "secenekler": ["1992", "1998", "2001", "2005"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi şirket, dünyanın ilk taşınabilir bilgisayarı olarak kabul edilen 'Osborne 1'i üretmiştir?",
+        "secenekler": ["Apple", "IBM", "Osborne Computer Corporation", "Microsoft"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Dünyanın en güçlü süper bilgisayarlarından biri olan ‘Fugaku’ hangi ülke tarafından geliştirilmiştir?",
+        "secenekler": ["ABD", "Almanya", "Çin", "Japonya"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Yapay zekâ kavramını ilk kez ortaya atan kişi kimdir?",
+        "secenekler": ["Alan Turing", "John McCarthy", "Marvin Minsky", "Geoffrey Hinton"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Turing Testi, bir yapay zekanın hangi yeteneğini ölçmek için tasarlanmıştır?",
+        "secenekler": ["Mantık yürütme", "İnsan gibi düşünme", "Hızlı hesaplama", "Görsel algılama"],
+        "cevap": "B"
+    },
+    {
+        "soru": "2023 yılında OpenAI tarafından geliştirilen ve doğal dil işleme alanında çığır açan yapay zeka modeli hangisidir?",
+        "secenekler": ["BERT", "GPT-4", "DALL·E", "AlphaFold"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Derin öğrenme (Deep Learning) modellerinde en çok kullanılan yapay sinir ağı türü hangisidir?",
+        "secenekler": ["Evrişimli Sinir Ağları (CNN)", "Karar Ağaçları", "K-En Yakın Komşu (KNN)", "Doğrusal Regresyon"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi yapay zeka modeli satrançta dünya şampiyonlarını yenerek büyük başarı kazanmıştır?",
+        "secenekler": ["DeepMind", "AlphaGo", "Deep Blue", "Watson"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi teknoloji devi, kendi yapay zeka araştırma laboratuvarı olan DeepMind'ı satın almıştır?",
+        "secenekler": ["Apple", "Google", "Microsoft", "Amazon"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Otonom araçların çevresini algılamak ve nesneleri tanımak için sıklıkla kullandığı yapay zeka teknolojisi hangisidir?",
+        "secenekler": ["Ses Tanıma", "Doğal Dil İşleme", "Bilgisayarlı Görü", "Öneri Sistemleri"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi yapay zeka uygulaması protein yapılarını tahmin ederek biyoloji alanında devrim yaratmıştır?",
+        "secenekler": ["DeepMind AlphaFold", "OpenAI Codex", "IBM Watson", "Google Bard"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Generatif yapay zeka (Generative AI) en yaygın olarak hangi tür içerikleri üretmek için kullanılır?",
+        "secenekler": ["Yalnızca metin", "Yalnızca ses", "Yalnızca görüntü", "Metin, görüntü, ses ve video"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi yapay zeka modeli, insan gibi metin yazabilme yeteneğiyle popüler hale gelmiştir?",
+        "secenekler": ["DALL·E", "GPT", "AlphaZero", "BERT"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk tamamen elektrikli otomobil şirketlerinden biri olan Tesla hangi yıl kurulmuştur?",
+        "secenekler": ["1995", "2003", "2010", "2015"],
+        "cevap": "B"
+    },
+    {
+        "soru": "İlk defa insanlı Ay görevi gerçekleştiren Apollo 11, hangi yıl Ay’a iniş yapmıştır?",
+        "secenekler": ["1965", "1969", "1973", "1977"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi teknoloji, veri depolamada manyetik bant teknolojisinin yerini büyük ölçüde almıştır?",
+        "secenekler": ["Katı Hal Sürücüsü (SSD)", "CD-ROM", "Manyetik Disk", "Floppy Disk"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İlk kez 2007 yılında piyasaya sürülen ve dokunmatik ekran teknolojisini popüler hale getiren cihaz hangisidir?",
+        "secenekler": ["iPhone", "iPad", "Samsung Galaxy", "Nokia N95"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İlk yüksek hızlı internet bağlantı teknolojilerinden biri olan DSL neyin kısaltmasıdır?",
+        "secenekler": ["Digital System Link", "Dynamic Signal Load", "Direct Service Line", "Digital Subscriber Line"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi uzay ajansı, 2021 yılında Mars’a ‘Perseverance’ adlı keşif aracını indirmiştir?",
+        "secenekler": ["NASA", "ESA", "Roscosmos", "CNSA"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İlk tamamen katlanabilir ekranlı akıllı telefon hangi şirket tarafından piyasaya sürülmüştür?",
+        "secenekler": ["Samsung", "Huawei", "Apple", "Motorola"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İnsan beynini taklit eden ve sinir ağları üzerinde çalışan yapay zeka çipleri hangi adla anılır?",
+        "secenekler": ["Grafik İşlemcileri (GPU)", "Nöral İşlem Birimi (NPU)", "Merkezi İşlem Birimi (CPU)", "Optik İşlemciler"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi teknoloji, nesnelerin interneti (IoT) cihazları arasında düşük güç tüketimiyle veri aktarımı sağlar?",
+        "secenekler": ["Wi-Fi", "Bluetooth", "LoRaWAN", "Ethernet"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi şirket, ilk kez tamamen otonom çalışan bir mağaza konsepti olan 'Amazon Go'yu geliştirmiştir?",
+        "secenekler": ["Walmart", "Amazon", "Google", "Alibaba"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ülkenin mutfağında, sushi en popüler yemeklerden biridir?",
+        "secenekler": ["Çin", "Japonya", "Kore", "Tayland"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi kültür, 'Karnaval' adı verilen büyük sokak festivalleriyle ünlüdür?",
+        "secenekler": ["Brezilya", "Meksika", "Arjantin", "Kolombiya"],
+        "cevap": "A"
+    },
+    {
+        "soru": "İspanya'nın en ünlü geleneksel danslarından biri hangisidir?",
+        "secenekler": ["Tango", "Salsa", "Flamenko", "Cha-cha"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi kültür, geleneksel olarak 'Aşk Tanrısı' olarak bilinen bir figür olan Eros'u kullanır?",
+        "secenekler": ["Roma", "Yunan", "Mısır", "Hint"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hindistan’ın en büyük ve en önemli festivallerinden biri olan Diwali, hangi dini gelenekle ilgilidir?",
+        "secenekler": ["Hinduizm", "Budizm", "Hristiyanlık", "Sikhizm"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ülke, geleneksel olarak 'kimono' giyimiyle ünlüdür?",
+        "secenekler": ["Çin", "Japonya", "Hindistan", "Kore"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Mısır'da eski zamanlarda çok önemli olan ve piramitlerin yapıldığı mezar yapıları hangi kültüre aittir?",
+        "secenekler": ["Yunan", "Roma", "Mısır", "Babil"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Meksika'nın geleneksel yemeklerinden olan taco, hangi kültüre aittir?",
+        "secenekler": ["Hindistan", "Meksika", "Kolombiya", "Peru"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Fransa'nın en ünlü tatlılarından biri olan ve ince hamur katmanlarından yapılan tatlı nedir?",
+        "secenekler": ["Baklava", "Tiramisu", "Croissant", "Macaron"],
+        "cevap": "C"
+    },
+    {
+        "soru": "İtalya'nın geleneksel yemeklerinden olan ve üzerinde domates, peynir ve fesleğen bulunan yemek nedir?",
+        "secenekler": ["Pasta", "Pizza", "Risotto", "Lasagna"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi Türk yazar, 'İnce Memed' adlı eserini yazmıştır?",
+        "secenekler": ["Nazım Hikmet", "Yaşar Kemal", "Orhan Kemal", "Haldun Dormen"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Afrika kökenli bir müzik türü olan ve genellikle batıdaki dans partilerinde çalınan müzik türü nedir?",
+        "secenekler": ["Reggae", "Salsa", "Jazz", "Hip-hop"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi geleneksel Çin festivalinde, kırmızı zarflar ve şans paraları verilerek, kötü ruhlardan arınmaya çalışılır?",
+        "secenekler": ["Yılbaşı Festivali", "Bahar Festivali", "Aydınlanma Günü", "Çin Yeni Yılı"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Türk mutfağında, özellikle yaz aylarında sıklıkla tüketilen, yoğurt ve salata içerikli hafif yemek nedir?",
+        "secenekler": ["Çökelek", "Cacık", "Kısır", "Mercimek Çorbası"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Birleşik Krallık'a ait geleneksel, siyah çayla yapılan içeceklerden biri olan ve özellikle öğleden sonraları tüketilen içecek nedir?",
+        "secenekler": ["Earl Grey", "Latte", "Chai", "Afternoon Tea"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Yunan kültüründe önemli bir figür olan ve felsefe dünyasına büyük katkılarda bulunan ünlü filozof kimdir?",
+        "secenekler": ["Aristoteles", "Platon", "Sokrat", "Herodot"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hindistan'da geleneksel olarak yapılan ve en önemli ritüellerden biri olan tapınaklar için hangi inanç sistemine ait tanrıya tapılır?",
+        "secenekler": ["Brahma", "Vishnu", "Shiva", "Ganesh"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi Güney Amerika ülkesinde, özellikle karnaval zamanı sırasında salsa dansı çok popülerdir?",
+        "secenekler": ["Brezilya", "Kolombiya", "Küba", "Peru"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Türklerde geleneksel bir misafirperverlik göstergesi olarak sıkça sunulan içecek nedir?",
+        "secenekler": ["Çay", "Kahve", "Ayran", "Boza"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Fransa'nın en ünlü geleneksel tatlılarından biri olan ve ince katmanlardan oluşan tatlı nedir?",
+        "secenekler": ["Tart", "Mille-feuille", "Macaron", "Eclair"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Beethoven, hangi müzik dönemine aittir?",
+        "secenekler": ["Barok", "Klasik", "Romantik", "Modern"],
+        "cevap": "C"
+    },
+    {
+        "soru": "En bilinen popüler müzik tarzlarından biri olan rock müziği, hangi ülkede ortaya çıkmıştır?",
+        "secenekler": ["ABD", "İngiltere", "Almanya", "Kanada"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ünlü sanatçı 'Like a Virgin' adlı şarkıyı seslendirmiştir?",
+        "secenekler": ["Madonna", "Beyoncé", "Lady Gaga", "Celine Dion"],
+        "cevap": "A"
+    },
+    {
+        "soru": "The Beatles, hangi şehirde kurulan ünlü bir İngiliz müzik grubudur?",
+        "secenekler": ["Liverpool", "Londra", "Manchester", "Birmingham"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ünlü müzikal, 'Do-Re-Mi' adlı şarkıyı içerir?",
+        "secenekler": ["The Sound of Music", "Les Misérables", "Hamilton", "The Phantom of the Opera"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Mozart, 'Die Zauberflöte' adlı operasını hangi döneminde bestelemiştir?",
+        "secenekler": ["Barok", "Klasik", "Romantik", "Rönesans"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi şarkıcı, 'Thriller' albümü ile dünya çapında büyük bir üne kavuşmuştur?",
+        "secenekler": ["Michael Jackson", "Elvis Presley", "Prince", "David Bowie"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Klasik batı müziğinde, bir eserin ilk kısmının 'Allegro' olarak işaret edilmesi ne anlama gelir?",
+        "secenekler": ["Yavaşça", "Hızlıca", "Orta tempoda", "Çok hızlı"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Celine Dion'un ünlü şarkısı 'My Heart Will Go On', hangi filmin tema şarkısıdır?",
+        "secenekler": ["Titanic", "The Bodyguard", "Pretty Woman", "The Lion King"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ünlü müzik grubu, 'Bohemian Rhapsody' adlı şarkıyı seslendirmiştir?",
+        "secenekler": ["Queen", "The Rolling Stones", "Led Zeppelin", "Pink Floyd"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Son Akşam Yemeği' adlı ünlü tablosuyla tanınır?",
+        "secenekler": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Raphael"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi Türk ressamı, Osmanlı'dan Cumhuriyet'e geçişi simgeleyen tabloları ile tanınır ve özellikle ‘Kaplumbağa Terbiyesi’ tablosuyla ünlüdür?",
+        "secenekler": ["Osman Hamdi Bey", "İbrahim Çallı", "Fikret Mualla", "Bedri Rahmi Eyüboğlu"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ünlü ressam, ‘Sistine Şapeli’nin tavanını boyayarak büyük bir sanat eseri ortaya koymuştur?",
+        "secenekler": ["Leonardo da Vinci", "Raphael", "Donatello", "Michelangelo"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi resim tekniği, renklerin doğrudan tuvale uygulanmasını ve fırça darbelerinin belirgin olmasını içerir?",
+        "secenekler": ["Empresyonizm", "Barok", "Rölyef", "Kübizm"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Pablo Picasso’nun ‘Guernica’ tablosu hangi olayın etkisiyle yapılmıştır?",
+        "secenekler": ["İspanya İç Savaşı", "Fransa Devrimi", "II. Dünya Savaşı", "Vietnam Savaşı"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Türk sanatında özellikle ‘Mavi Dönem’ ile tanınan ressam kimdir?",
+        "secenekler": ["İbrahim Çallı", "Pablo Picasso", "Fikret Mualla", "Bedri Rahmi Eyüboğlu"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi sanatçı, 'Büyük Dalga' adlı ünlü eseriyle Japon sanatının en tanınan isimlerinden biridir?",
+        "secenekler": ["Hokusai", "Katsushika", "Yoko Ono", "Kuniyoshi"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi sanatçı, ‘Kızıl Dalgalar’ adlı ünlü eserini yapmıştır?",
+        "secenekler": ["Frida Kahlo", "Gustav Klimt", "Hokusai", "Claude Monet"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi resim türü, küçük boyutlu, genellikle günlük yaşamdan kesitler sunan resimleri içerir?",
+        "secenekler": ["Doğa manzarası", "Halk resimleri", "Tablo", "Mozaik"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ressam ‘Çığlık’ adlı tablosu ile modern sanatın önemli temsilcilerindendir?",
+        "secenekler": ["Salvador Dalí", "Vincent van Gogh", "Edvard Munch", "Henri Matisse"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Dünyanın en yüksek ağacı hangisidir?",
+        "secenekler": ["Sekoya", "Kızılçam", "Meşe", "Sedir"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi bitki, tıbbi olarak en yaygın kullanılan bitkilerden biridir ve 'büyülü' özelliğiyle tanınır?",
+        "secenekler": ["Lavanta", "Aloe Vera", "Nane", "Papatya"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Bir çiçeğin 'güneşçi' olarak bilinen bitkisi hangisidir?",
+        "secenekler": ["Ayçiçeği", "Orkide", "Gül", "Zambak"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Dünyadaki en yaygın meyve bitkisi hangisidir?",
+        "secenekler": ["Portakal", "Muz", "Elma", "Çilek"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi bitki, geleneksel olarak 'doğal antiseptik' olarak kullanılır?",
+        "secenekler": ["Kekik", "Çay ağacı", "Eucalyptus", "Lavanta"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi bitki, 'dünyanın en güçlü bitkisi' olarak bilinir ve temelde dik bir şekilde büyür?",
+        "secenekler": ["Bambu", "Kaktüs", "Çam", "Palmiye"],
+        "cevap": "A"
+    },
+    {
+        "soru": "En bilinen 'çiçek açmayan' bitki türü hangisidir?",
+        "secenekler": ["Yosun", "Karpuz", "Çam", "Söğüt"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Çayın yaprakları hangi bitkiden elde edilir?",
+        "secenekler": ["Mentha", "Rosmarinus", "Camellia sinensis", "Lavandula"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi bitki, 'gölgeleme' özelliği nedeniyle tropikal bölgelerde yaygın olarak kullanılır?",
+        "secenekler": ["Palmiye", "Bambu", "Kavak", "Çınar"],
+        "cevap": "D"
+    },
+    {
+        "soru": "Hangi bitki, vücudu serinletici özelliği ile bilinir ve yaz aylarında sıklıkla kullanılır?",
+        "secenekler": ["Fesleğen", "Papatya", "Nane", "Kekik"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi ünlü yazar, 'Savaş ve Barış' adlı eserini yazmıştır?",
+        "secenekler": ["Leo Tolstoy", "Fyodor Dostoyevski", "Hermann Hesse", "Vladimir Nabokov"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi şehir, ünlü 'Eyfel Kulesi'ne ev sahipliği yapmaktadır?",
+        "secenekler": ["Roma", "Paris", "Berlin", "Londra"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Dünyanın en yüksek dağı olan Everest, hangi ülkede yer alır?",
+        "secenekler": ["Hindistan", "Nepal", "Çin", "Tibet"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi antik şehir, antik dünyanın yedi harikasından biri olan Kolosus'a ev sahipliği yapmaktadır?",
+        "secenekler": ["Rodos", "Atina", "Efes", "Babil"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Dünyanın en büyük piramidi hangi ülkede bulunmaktadır?",
+        "secenekler": ["Meksika", "Mısır", "Çin", "Yunanistan"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Rönesans dönemi sanatının ünlü ismi olan Michelangelo, hangi ünlü eseriyle tanınır?",
+        "secenekler": ["David", "Venüs", "Mona Lisa", "The Thinker"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Fransız mutfağının en ünlü yemeklerinden biri olan 'coq au vin' ne ile yapılır?",
+        "secenekler": ["Tavuk", "Sığır eti", "Balina eti", "Yengeç"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Dünyanın en eski ve en büyük müzelerinden biri olan British Museum, hangi şehirde yer alır?",
+        "secenekler": ["Roma", "New York", "Londra", "Paris"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi antik şehir, antik dünyanın yedi harikasından biri olan Artemis Tapınağı'na ev sahipliği yapmaktadır?",
+        "secenekler": ["Efes", "Babil", "Atina", "Mısır"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi ünlü müzik grubu, 'Bohemian Rhapsody' adlı şarkısıyla dünya çapında tanınmıştır?",
+        "secenekler": ["The Beatles", "Queen", "The Rolling Stones", "Led Zeppelin"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi programlama dili, web geliştirme için yaygın olarak kullanılır ve HTML ile birlikte çalışır?",
+        "secenekler": ["JavaScript", "Python", "C#", "Ruby"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi şirket, Windows işletim sistemini geliştirmiştir?",
+        "secenekler": ["Apple", "Google", "Microsoft", "IBM"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi yazılım geliştirme metodolojisi, projeleri küçük, yönetilebilir parçalara ayırmayı amaçlar?",
+        "secenekler": ["Agile", "Waterfall", "Scrum", "V-Model"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi programlama dilinde 'elif' anahtar kelimesi, 'else if' anlamına gelir?",
+        "secenekler": ["Java", "C", "Python", "Ruby"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi programlama dili, genellikle yapay zeka ve veri bilimi uygulamaları için kullanılır?",
+        "secenekler": ["Python", "C++", "Ruby", "JavaScript"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi programlama dilinde, 'for' döngüsü genellikle bir koleksiyondaki her öğe üzerinde işlem yapmak için kullanılır?",
+        "secenekler": ["Java", "C", "Python", "Ruby"],
+        "cevap": "C"
+    },
+    {
+        "soru": "Hangi terim, 'programların çalışabilmesi için gerekli olan en temel yazılım katmanıdır'?",
+        "secenekler": ["İşletim Sistemi", "Veritabanı", "Framework", "IDE"],
+        "cevap": "A"
+    },
+    {
+        "soru": "Hangi programlama dili, ilk olarak 1950'lerde geliştirilen ve halen günümüzde kullanılan en eski programlama dillerinden biridir?",
+        "secenekler": ["Python", "Fortran", "C", "Java"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi ağ protokolü, internet üzerinden web sayfalarına erişim sağlamak için kullanılır?",
+        "secenekler": ["FTP", "HTTP", "SMTP", "DNS"],
+        "cevap": "B"
+    },
+    {
+        "soru": "Hangi bilgisayar bilimcisi, modern bilgisayar biliminin temelini atmış ve 'Turing Makinesi' kavramını ortaya koymuştur?",
+        "secenekler": ["Grace Hopper", "Alan Turing", "Bill Gates", "John von Neumann"],
+        "cevap": "B"
+    }
+
+
+
+
+
+]
+
+
+
+

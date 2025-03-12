@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz - Kim Kültürlü Olmak İster</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <button id="themeToggle" class="theme-btn">🌙</button>
+    
+    <div class="container visible">
+        <div class="card quiz-card">
+            <div class="status-bar">
+                <div class="score-box">
+                    <span>🏆</span>
+                    <span id="score">0</span>
+                </div>
+                <div class="timer-box">
+                    <span>⏳</span>
+                    <span id="timer">15</span>
+                </div>
+            </div>
+
+            <div class="question-header">
+                <span id="question-number">1. Soru</span>
+                <h2 id="question"></h2>
+            </div>
+
+            <div id="options" class="options-container"></div>
+
+            <div class="action-buttons">
+                <button id="nextBtn" class="secondary-btn hidden">Sonraki Soru</button>
+                <button id="finishBtn" class="secondary-btn hidden">Bitir</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
